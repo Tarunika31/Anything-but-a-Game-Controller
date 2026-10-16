@@ -1,0 +1,8 @@
+{
+  "name": "anything-but-a-game-controller",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Phone motion controller and browser game using WebSockets",
+  "scripts": { "start": "node server.js", "dev": "node server.js" },
+  "dependencies": { "express": "^4.21.2", "ws": "^8.18.0", "qrcode": "^1.5.4" }
+}
